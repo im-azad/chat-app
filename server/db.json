@@ -25,6 +25,14 @@
       "confirmPassword": "12345",
       "acceptTerms": true,
       "id": 4
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$Su7pwW/bujfWLbY1PDEsKODwJM13rEFiTK9xaOgnUMfP9ANr6vmBW",
+      "name": "test",
+      "confirmPassword": "12345",
+      "acceptTerms": true,
+      "id": 5
     }
   ],
   "conversations": [
